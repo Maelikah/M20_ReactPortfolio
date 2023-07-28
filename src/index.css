@@ -143,3 +143,8 @@ p {
     padding-bottom: var(--spacing-two);
 }
 
+.navActive {
+    color: var(--secondary);
+    cursor: default;
+    text-shadow: 3px 3px 15px rgba(255,255,255, .5);
+}
