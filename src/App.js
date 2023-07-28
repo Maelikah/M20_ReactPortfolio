@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Navtabs from './components/Navtabs';
-const App = () => <Navtabs/>
+import Navcontent from './components/Navcontent';
+const App = () => <Navcontent/>
 
 export default App;
