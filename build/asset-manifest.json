@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/M20_ReactPortfolio/static/css/main.04fb302c.chunk.css",
+    "main.js": "/M20_ReactPortfolio/static/js/main.9f6f6053.chunk.js",
+    "main.js.map": "/M20_ReactPortfolio/static/js/main.9f6f6053.chunk.js.map",
+    "runtime-main.js": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js",
+    "runtime-main.js.map": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js.map",
+    "static/js/2.fc36cab1.chunk.js": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js",
+    "static/js/2.fc36cab1.chunk.js.map": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js.map",
+    "index.html": "/M20_ReactPortfolio/index.html",
+    "static/css/main.04fb302c.chunk.css.map": "/M20_ReactPortfolio/static/css/main.04fb302c.chunk.css.map",
+    "static/js/2.fc36cab1.chunk.js.LICENSE.txt": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js.LICENSE.txt",
+    "static/media/Book-Search-Engine.png": "/M20_ReactPortfolio/static/media/Book-Search-Engine.7f20cef7.png",
+    "static/media/Code-Refactoring.png": "/M20_ReactPortfolio/static/media/Code-Refactoring.622a48a8.png",
+    "static/media/Coding-Portfolio.png": "/M20_ReactPortfolio/static/media/Coding-Portfolio.1287adb5.png",
+    "static/media/ECommerce-Backend.png": "/M20_ReactPortfolio/static/media/ECommerce-Backend.67d84761.png",
+    "static/media/Employee-Tracker.png": "/M20_ReactPortfolio/static/media/Employee-Tracker.604596c6.png",
+    "static/media/Forever-Paws.png": "/M20_ReactPortfolio/static/media/Forever-Paws.aada7a3f.png",
+    "static/media/Future-Project.png": "/M20_ReactPortfolio/static/media/Future-Project.3704ac9c.png",
+    "static/media/Javascript-Quiz.png": "/M20_ReactPortfolio/static/media/Javascript-Quiz.a9498b04.png",
+    "static/media/MVC-Tech-Blog.png": "/M20_ReactPortfolio/static/media/MVC-Tech-Blog.4aa607a8.png",
+    "static/media/Meal-PreApp.png": "/M20_ReactPortfolio/static/media/Meal-PreApp.709c27b3.png",
+    "static/media/Note-Taker.png": "/M20_ReactPortfolio/static/media/Note-Taker.71b379aa.png",
+    "static/media/PWA-Text-Editor.png": "/M20_ReactPortfolio/static/media/PWA-Text-Editor.497c980c.png",
+    "static/media/Password-Generator.png": "/M20_ReactPortfolio/static/media/Password-Generator.41f82900.png",
+    "static/media/Professional-Readme.png": "/M20_ReactPortfolio/static/media/Professional-Readme.b3f7bc19.png",
+    "static/media/REGEX-Tutorial.png": "/M20_ReactPortfolio/static/media/REGEX-Tutorial.bb0adf3c.png",
+    "static/media/Redux-Store.png": "/M20_ReactPortfolio/static/media/Redux-Store.d5455aa0.png",
+    "static/media/SN-API.png": "/M20_ReactPortfolio/static/media/SN-API.95fb0bf3.png",
+    "static/media/SVG-Logo-Maker.png": "/M20_ReactPortfolio/static/media/SVG-Logo-Maker.1dac4318.png",
+    "static/media/Study-Guide.png": "/M20_ReactPortfolio/static/media/Study-Guide.c514e3fa.png",
+    "static/media/Weather-Dashboard.png": "/M20_ReactPortfolio/static/media/Weather-Dashboard.10fee513.png",
+    "static/media/Workday-Scheduler.png": "/M20_ReactPortfolio/static/media/Workday-Scheduler.32f20f40.png",
+    "static/media/bgc.54136ec9.jpg": "/M20_ReactPortfolio/static/media/bgc.54136ec9.jpg",
+    "static/media/pic.6d9b5662.png": "/M20_ReactPortfolio/static/media/pic.6d9b5662.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f28f5b0.js",
+    "static/js/2.fc36cab1.chunk.js",
+    "static/css/main.04fb302c.chunk.css",
+    "static/js/main.9f6f6053.chunk.js"
+  ]
+}
