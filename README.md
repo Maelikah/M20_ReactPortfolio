@@ -110,7 +110,7 @@ Deployed Application Page:
 
 https://maelikah.github.io/M20_ReactPortfolio/
 
-
+![Screenshot](/assets/screenshot.png)
 
 </br>
 
