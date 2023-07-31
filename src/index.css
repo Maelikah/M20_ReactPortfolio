@@ -2,7 +2,7 @@
 :root {
     --bgc1: #142850;
     --hlight:#84b4d3;
-    --txt: #4c4683;
+    --error: #8B0000;
     --bgc2: #f3f3f2;
     --txt2: #f9d695;
     --hver2: #0a7713;
@@ -29,7 +29,7 @@ html, body {
 body {
     margin: 0;
     padding: 0;
-  
+
     line-height: 1.5;
     font-size: 18px;
     letter-spacing: 0.1em;
@@ -72,7 +72,7 @@ h6 {
 }
 
 p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin: 20px 0;
     line-height: 2rem;
 }
@@ -147,9 +147,8 @@ p {
 }
 
 .navActive {
-    color: var(--secondary);
     cursor: default;
-    text-shadow: 3px 3px 15px rgba(255,255,255, .5);
+    text-shadow: 3px 3px 15px rgba(255, 255, 255, 0.5);
 }
 
 a {
@@ -177,23 +176,27 @@ button {
     text-decoration: none;
     border-radius: 0.5rem;
     border: none;
-    color: #fff;
+    color: var(--bgc1);
     outline: none;
     cursor: pointer;
     margin: 0 1px;
-    background-color: var(--dark);
+    background-color: var(--txt2);
     padding: 10px 15px;
-    opacity: 0.7;
+    
 }
 
 
 button:hover {
     opacity: 1;
+    background-color: var(--hlight);
+    
 }
 
 button[disabled] {
-    cursor: default;
-    opacity: 0.8;
+    cursor:not-allowed;
+    background-color: var(--error);
+    
+
 }
 
 img {
@@ -213,14 +216,14 @@ input {
     font-size: 1rem;
     padding: 0.25rem;
     width: 600px;
-    border: 1px solid var(--dark);
+    border: 1px solid var(--shdow);
     outline: none;
     border-radius: 3px;
     transition: box-shadow 0.2s;
 }
 
 input:focus {
-    border: 1px solid var(--secondary);
+    border: 1px solid var(--shdow);
     box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5);
 }
 

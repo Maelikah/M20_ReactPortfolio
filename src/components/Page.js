@@ -25,7 +25,9 @@ function Page({ currentPage }) {
     return (
         <section>
         <h2>{firstLetter(currentPage.name)}</h2>
+        <br></br>
         <PageContent>{renderPage()}</PageContent>
+        <br></br>
         </section>
     );
 }
