@@ -8,7 +8,7 @@ function Resume() {
             📝 <a href="https://www.linkedin.com/in/eva-longoria">Download</a>
             </p>
             <h3>Programming Proficiencies</h3>
-            <ul>
+            <ul className="ul">
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>

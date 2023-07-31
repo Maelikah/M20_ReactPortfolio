@@ -143,7 +143,7 @@ https://maelikah.github.io/M20_ReactPortfolio/
 - https://github.com/devicons/devicon/tree/master/icons
 - https://nodejs.org/en/docs
 - https://create-react-app.dev/docs/deployment/#github-pages
-- 
+- https://legacy.reactjs.org/docs/getting-started.html
 
 
 </br>
