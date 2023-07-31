@@ -31,11 +31,11 @@ export default function Navtabs () {
                     currentPage = {currentPage}>
                 </Nav>
             </Header>
-            {/* <main>
+            <main>
                 <Page 
                     currentPage = {currentPage}>
                 </Page>
-            </main> */}
+            </main>
             <Footer />
         </div>
     );

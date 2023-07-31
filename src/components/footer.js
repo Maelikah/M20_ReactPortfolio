@@ -9,7 +9,7 @@ function Footer() {
         },
         {
             name: 'fab fa-linkedin',
-            link: 'www.linkedin.com/in/eva-longoria'
+            link: 'https://www.linkedin.com/in/eva-longoria'
         },
         {
             name: 'fab fa-goodreads',
