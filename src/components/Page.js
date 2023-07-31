@@ -1,10 +1,10 @@
 import React from "react";
-import PageContent from "../PageContent";
-import About from "../About";
-import Portfolio from "../Portfolio";
-import Contact from "../Contact";
-import Resume from "../Resume";
-import { firstLetter } from "../../utils/helpers";
+import PageContent from "./PageContent";
+import About from "./About";
+import Portfolio from "./Portfolio";
+import Contact from "./Contact";
+import Resume from "./Resume";
+import { firstLetter } from "../utils/helpers";
 
 function Page({ currentPage }) {
     const renderPage = () => {

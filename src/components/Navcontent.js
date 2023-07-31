@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Header from './Header';
 import Nav from './Nav';
-//import Page from './Page';
+import Page from './Page';
 import Footer from './Footer';
 
 export default function Navtabs () {
