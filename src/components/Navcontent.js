@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Header from './components/Header';
-import Nav from './components/Nav';
-import Page from './components/Page';
-import Footer from './components/Footer';
+import Header from './Header';
+import Nav from './Nav';
+//import Page from './Page';
+import Footer from './Footer';
 
 export default function Navtabs () {
     const [tabs] = useState ([
@@ -20,22 +20,22 @@ export default function Navtabs () {
         },
     ]);
 
-    const [currentPage, setCurrentPage] = useState(pages[0]);
+    const [currentPage, setCurrentPage] = useState(tabs[0]);
     
     return (
         <div>
             <Header>
                 <Nav
-                    pages = {pages}
+                    pages = {tabs}
                     setCurrentPage = {setCurrentPage}
                     currentPage = {currentPage}>
                 </Nav>
             </Header>
-            <main>
+            {/* <main>
                 <Page 
                     currentPage = {currentPage}>
                 </Page>
-            </main>
+            </main> */}
             <Footer />
         </div>
     );
