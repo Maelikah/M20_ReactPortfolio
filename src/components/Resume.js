@@ -5,7 +5,7 @@ function Resume() {
         <section className="my-5">
         <div className="my-2">
             <p>
-            📝 <a href="https://www.linkedin.com/in/eva-longoria">Download</a>
+            📝 <a href="/assets/resume.docx" download>Download</a>
             </p>
             <h3>Programming Proficiencies</h3>
             <ul className="ul">
