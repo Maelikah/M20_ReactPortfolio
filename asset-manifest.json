@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/M20_ReactPortfolio/static/css/main.415f34a8.chunk.css",
-    "main.js": "/M20_ReactPortfolio/static/js/main.64bc68bd.chunk.js",
-    "main.js.map": "/M20_ReactPortfolio/static/js/main.64bc68bd.chunk.js.map",
+    "main.js": "/M20_ReactPortfolio/static/js/main.16046f08.chunk.js",
+    "main.js.map": "/M20_ReactPortfolio/static/js/main.16046f08.chunk.js.map",
     "runtime-main.js": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js",
     "runtime-main.js.map": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js.map",
     "static/js/2.fc36cab1.chunk.js": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js",
@@ -32,12 +32,13 @@
     "static/media/Weather-Dashboard.png": "/M20_ReactPortfolio/static/media/Weather-Dashboard.10fee513.png",
     "static/media/Workday-Scheduler.png": "/M20_ReactPortfolio/static/media/Workday-Scheduler.32f20f40.png",
     "static/media/bgc.54136ec9.jpg": "/M20_ReactPortfolio/static/media/bgc.54136ec9.jpg",
-    "static/media/pic.6d9b5662.png": "/M20_ReactPortfolio/static/media/pic.6d9b5662.png"
+    "static/media/pic.6d9b5662.png": "/M20_ReactPortfolio/static/media/pic.6d9b5662.png",
+    "static/media/resume.d1c84d33.docx": "/M20_ReactPortfolio/static/media/resume.d1c84d33.docx"
   },
   "entrypoints": [
     "static/js/runtime-main.2f28f5b0.js",
     "static/js/2.fc36cab1.chunk.js",
     "static/css/main.415f34a8.chunk.css",
-    "static/js/main.64bc68bd.chunk.js"
+    "static/js/main.16046f08.chunk.js"
   ]
 }
