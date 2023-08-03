@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/M20_ReactPortfolio/static/css/main.04fb302c.chunk.css",
-    "main.js": "/M20_ReactPortfolio/static/js/main.9f6f6053.chunk.js",
-    "main.js.map": "/M20_ReactPortfolio/static/js/main.9f6f6053.chunk.js.map",
+    "main.css": "/M20_ReactPortfolio/static/css/main.415f34a8.chunk.css",
+    "main.js": "/M20_ReactPortfolio/static/js/main.64bc68bd.chunk.js",
+    "main.js.map": "/M20_ReactPortfolio/static/js/main.64bc68bd.chunk.js.map",
     "runtime-main.js": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js",
     "runtime-main.js.map": "/M20_ReactPortfolio/static/js/runtime-main.2f28f5b0.js.map",
     "static/js/2.fc36cab1.chunk.js": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js",
     "static/js/2.fc36cab1.chunk.js.map": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js.map",
     "index.html": "/M20_ReactPortfolio/index.html",
-    "static/css/main.04fb302c.chunk.css.map": "/M20_ReactPortfolio/static/css/main.04fb302c.chunk.css.map",
+    "static/css/main.415f34a8.chunk.css.map": "/M20_ReactPortfolio/static/css/main.415f34a8.chunk.css.map",
     "static/js/2.fc36cab1.chunk.js.LICENSE.txt": "/M20_ReactPortfolio/static/js/2.fc36cab1.chunk.js.LICENSE.txt",
     "static/media/Book-Search-Engine.png": "/M20_ReactPortfolio/static/media/Book-Search-Engine.7f20cef7.png",
     "static/media/Code-Refactoring.png": "/M20_ReactPortfolio/static/media/Code-Refactoring.622a48a8.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.2f28f5b0.js",
     "static/js/2.fc36cab1.chunk.js",
-    "static/css/main.04fb302c.chunk.css",
-    "static/js/main.9f6f6053.chunk.js"
+    "static/css/main.415f34a8.chunk.css",
+    "static/js/main.64bc68bd.chunk.js"
   ]
 }
