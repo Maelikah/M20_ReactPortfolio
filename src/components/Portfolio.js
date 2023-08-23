@@ -126,10 +126,10 @@ function Portfolio() {
             repo: "https://github.com/Maelikah/M22_ReduxStore",
         },
         {
-            name: "Future-Project",
-            description: "We dont know what the future awaits...🤪",
-            link: "https://github.com/Maelikah/",
-            repo: "https://github.com/Maelikah/",
+            name: "Job-Journey",
+            description: "Job Tracking app",
+            link: "https://ancient-everglades-97703-e6a603057067.herokuapp.com/",
+            repo: "https://github.com/Maelikah/P3_JobJourney",
         },
         
 
